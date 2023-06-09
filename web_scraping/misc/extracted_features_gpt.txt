@@ -1,0 +1,38 @@
+Based on the provided description, here is a list of the main items covered:
+
+Award Data:
+
+Award Date: April 12, 2021
+Status: Awarded
+Type of Award: Task / Delivery Order
+Solicitation Date: June 8, 2020
+Solicitation Number: FA877021R0502
+Source URL: https://sam.gov/opp/96d7217c31054f13a7f8ff95b039bfd1/view
+Contract Information:
+
+Acronym: CRIS
+Procurement: Information Technology
+Duration: Full implementation at least 18-24 months after award
+Primary NAICS: Custom Computer Programming Services
+Primary Requirement: Information Technology
+Organization:
+
+Government Entity: Business and Enterprise Systems Directorate (ID: 126278)
+IQ Opportunity ID: 178753
+Description:
+
+A detailed description of the project, including the background and requirements.
+Links and Related Information:
+
+Various links to additional information related to the opportunity, such as contacts, related documents, marked by users, places of performance, government entity details, FBO notices, related articles, contract vehicles, assessment, companies, and milestones.
+Competition and Contract Types:
+
+Competition Types: Small Business Set-Aside
+Contract Types: Task Order
+Financial Information:
+
+Opportunity Value: $15,793
+Smart Tags:
+
+Primary Tags: Information technology services, Software services
+Secondary Tags: Business intelligence services, Cyber security services, Data warehouse services, Database administration, Software development, Software maintenance

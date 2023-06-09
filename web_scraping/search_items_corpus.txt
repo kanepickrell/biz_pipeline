@@ -1,0 +1,10 @@
+Award Date
+Value($K)
+Competition Type
+Solicitation Date
+Buying Org
+Organization Type
+Opp ID
+PREVIOUS SOLICITATION NUMBERS
+Status
+Other Program Information

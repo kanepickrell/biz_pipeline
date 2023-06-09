@@ -1,0 +1,17 @@
+Award Date
+Status
+Type of Award
+Solicitation Date
+Solicitation Number
+Source URL
+Acronym
+Procurement
+Duration
+Primary NAICS
+Primary Requirement
+Government Entity
+IQ Opportunity ID
+Description
+Opportunity Value
+Primary Tags
+Secondary Tags
